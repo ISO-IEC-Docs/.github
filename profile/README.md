@@ -33,6 +33,10 @@
 - 由于文件体积过大，GitHub 无法解析，建议下载查看。
 - [蓝奏云网盘链接（密码：0000）](https://610402220623.lanzouq.com/b00tay8n1c) , GitCode 仓库，Gitee 仓库和 AtomGit 仓库以后不再维护。
 
+## 镜像站
+1. 阿里云盘镜像站：[https://www.alipan.com/s/oNWDfuLYd1m](https://www.alipan.com/s/oNWDfuLYd1m)（最后一次更新时间：2024 年 11 月 18 日）
+2. 123 云盘镜像站：[链接一（123684.com）](https://www.123684.com/s/kPxoTd-Y6nxH)  [链接二（123865.com）](https://www.123865.com/s/kPxoTd-Y6nxH)（最后一次更新时间：2024 年 11 月 18 日）
+
 ## 捐赠
 
 如果此仓库帮助了你，且你有捐赠意愿，请通过以下渠道捐赠：
